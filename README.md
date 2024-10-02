@@ -1,7 +1,7 @@
 # electron-elastic-apm
 Sample ElectronJS app to test node.js APM agent
 
-## Instructions
+### Instructions
 
 1. clone repo
 2. Open renderer.js file
@@ -14,3 +14,8 @@ Sample ElectronJS app to test node.js APM agent
     -Required: Input APM server URL and Auth token
    
     -Optional: modify service details
+
+4. Install Dependencies  
+```npm install```
+5. Run the App  
+```npm start```
